@@ -12,17 +12,12 @@
     "nombre": "COLERA NO ESPECIFICADO"
   },
     {
-    "MotivosID": 3,
+    "MotivosID": 4,
     "nombre": "FIEBRE TIFOIDEA"
   },
     {
-    "MotivosID": 3,
+    "MotivosID": 5,
     "nombre": "FIEBRE PARATIFOIDEA A"
-  },
-    {
-    "MotivosID": 3,
-    "nombre": "FIEBRE PARATIFOIDEA B"
   }
-  
 ]
   
