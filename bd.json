@@ -1,0 +1,28 @@
+[
+  {
+    "MotivosID": 1,
+    "nombre": "COLERA DEBIDO A VIBRIO CHOLERAE O1, BIOTIPO CHOLERAE"
+  },
+  {
+    "MotivosID": 2,
+    "nombre": "COLERA DEBIDO A VIBRIO CHOLERAE O1, BIOTIPO EL TOR"
+  },
+  {
+    "MotivosID": 3,
+    "nombre": "COLERA NO ESPECIFICADO"
+  },
+    {
+    "MotivosID": 3,
+    "nombre": "FIEBRE TIFOIDEA"
+  },
+    {
+    "MotivosID": 3,
+    "nombre": "FIEBRE PARATIFOIDEA A"
+  },
+    {
+    "MotivosID": 3,
+    "nombre": "FIEBRE PARATIFOIDEA B"
+  }
+  
+]
+  
